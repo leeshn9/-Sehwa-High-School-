@@ -1,21 +1,21 @@
 const details = [
   {
-    image: "images/detailImage1.png"
+    image: "detailImage1.png"
   },
   {
-    image: "images/detailImage2.png"
+    image: "detailImage2.png"
   },
   {
-    image: "images/detailImage3.png"
+    image: "detailImage3.png"
   },
   {
-    image: "images/detailImage4.png"
+    image: "detailImage4.png"
   },
   {
-    image: "images/detailImage5.png"
+    image: "detailImage5.png"
   },
   {
-    image: "images/detailImage6.png"
+    image: "detailImage6.png"
   }
 ];
 
